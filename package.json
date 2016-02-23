@@ -1,0 +1,15 @@
+{
+  "name": "react-webpack-template",
+  "version": "0.0.1",
+  "description": "basic react webpack template",
+  "main": "index.js",
+  "repository": "github:cdwills/react-webpack-template",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cdwills",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.12.14"
+  }
+}
